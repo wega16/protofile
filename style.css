@@ -27,12 +27,7 @@ border:3px solid black;
 position:fixed;
 top:0px;
 }
-.ti{
-border-radius:25px;
-color:black;
-border:1px solid white ;
-background-color:white;
-}
+
 a{
 text-decoration:none ;
 color:black ;
